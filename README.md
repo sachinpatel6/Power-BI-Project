@@ -13,13 +13,13 @@ sports analytics, HR analytics, and sales analysis.
 A sales performance dashboard that analyzes sales, profit, discount, quantity,
 customer segments, and regional trends.
 
-### 2. IPL Data Analysis
-An IPL analytics dashboard that focuses on team performance, wins, toss impact,
-venues, seasons, and top players.
-
-### 3. HR Data Analysis
+### 2. HR Data Analysis
 An HR analytics dashboard that analyzes recruitment, attrition, cost,
 department-wise hiring, and performance scores.
+
+### 3. IPL Data Analysis
+An IPL analytics dashboard that focuses on team performance, wins, toss impact,
+venues, seasons, and top players.
 
 ### 4. AdventureWorks Sales Analysis
 An advanced sales dashboard using AdventureWorks data to analyze profit,
